@@ -1,0 +1,2 @@
+# pythonGttsSample
+Pythonのテキスト読み上げサンプル
